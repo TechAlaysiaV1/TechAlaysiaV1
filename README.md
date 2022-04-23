@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TechAlaysiaV1
-- 👀 I’m interested in ... Traveling, Luxuries of Life and Data Analyst opportunities
-- 🌱 I’m currently learning ... SQL for Data Analytics
-- 💞️ I’m looking to collaborate on ... data driven projects through data integrations and implenting strategies
+- 👀 I’m interested in ... Business or Data Analyst opportunities within Operations
+- 🌱 I’m currently learning ... SQL, PowerBi, Tableau
+- 💞️ I’m looking to collaborate on ... development projects, datasets
 - 📫 How to reach me ... www.linkedin.com/in/alaysia-venable062395 , Discord: Alaysia Venable
 
 <!---
