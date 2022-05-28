@@ -1,0 +1,61 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled1.ipynb",
+      "provenance": [],
+      "authorship_tag": "ABX9TyNju1SQvmtua+KdOHVR9Ul8",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/TechAlaysiaV1/TechAlaysiaV1/blob/main/Practice%20Run%20With%20Variables\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 1,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "mJfDTWiFXfDm",
+        "outputId": "c1ffe1f6-23ec-4ad4-e6c7-1f6c47f76ddb"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Hello world, my name is Pretty Great Person.\n"
+          ]
+        }
+      ],
+      "source": [
+        "my_name = \"Pretty Great Person\"\n",
+        "\n",
+        "# Edit and uncomment the line below if you want to reassign the\n",
+        "# value of the `my_name` variable.\n",
+        "\n",
+        "# my_name = \"\"\n",
+        "\n",
+        "print(\"Hello world, my name is \" + my_name + \".\")"
+      ]
+    }
+  ]
+}
